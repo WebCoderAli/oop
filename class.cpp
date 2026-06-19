@@ -3,6 +3,7 @@
 using namespace std;
 
 class Teacher{
+
 	//private modifier
 	private:
 	//private properties
