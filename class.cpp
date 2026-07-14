@@ -12,6 +12,7 @@ class Teacher{
 	public:
 	//public properties
 		string name;
+
 		string subject;
 		string dept;
 		// setter / public methods
